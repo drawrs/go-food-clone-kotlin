@@ -1,0 +1,19 @@
+#Mon Jan 22 16:26:36 WIB 2018
+path.1=classes.dex
+path.0=classes.dex
+renamed.5=classes6.dex
+renamed.4=classes5.dex
+renamed.3=classes4.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.5=/home/hilman/Desktop/GOSEND/app/build/intermediates/transforms/dexMerger/debug/90
+base.4=/home/hilman/Desktop/GOSEND/app/build/intermediates/transforms/dexMerger/debug/87
+base.3=/home/hilman/Desktop/GOSEND/app/build/intermediates/transforms/dexMerger/debug/92
+base.2=/home/hilman/Desktop/GOSEND/app/build/intermediates/transforms/dexMerger/debug/89
+base.1=/home/hilman/Desktop/GOSEND/app/build/intermediates/transforms/dexMerger/debug/88
+base.0=/home/hilman/Desktop/GOSEND/app/build/intermediates/transforms/dexMerger/debug/91
+path.5=classes.dex
+path.4=classes.dex
+path.3=classes.dex
+path.2=classes.dex
