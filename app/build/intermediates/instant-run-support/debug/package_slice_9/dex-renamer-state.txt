@@ -1,4 +1,4 @@
-#Mon Jan 22 13:41:49 WIB 2018
-base.0=/home/hilman/Desktop/GOSEND/app/build/intermediates/transforms/dexMerger/debug/85
+#Sun Feb 04 09:04:24 WIB 2018
+base.0=/home/hilman/Desktop/GOSEND/app/build/intermediates/transforms/dexMerger/debug/10
 path.0=classes.dex
 renamed.0=classes.dex

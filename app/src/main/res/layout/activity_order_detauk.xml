@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.khilman.www.go_send.OrderDetaukActivity">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:background="@color/bgOrder"
+        android:scrollbars="none"
+        android:layout_marginBottom="45dp"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingHorizontal="10dp"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginVertical="10dp"
+                android:background="@android:color/white">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="ITEM DESCRIPTION"
+                    android:textStyle="bold"
+                    android:textColor="@android:color/black"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_marginBottom="15dp"/>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/lineColor"></LinearLayout>
+
+                <EditText
+                    android:id="@+id/etItemDesc"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="20dp"
+                    android:background="@android:color/white"
+                    android:hint="Description of goods"
+                    android:maxLines="10"
+                    android:textSize="16sp" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginBottom="10dp"
+                android:background="@android:color/white">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="SENDER"
+                    android:textStyle="bold"
+                    android:textColor="@android:color/black"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginTop="20dp"/>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/lineColor"></LinearLayout>
+
+                <EditText
+                    android:id="@+id/etSenderName"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginTop="20dp"
+                    android:background="@android:color/white"
+                    android:drawableLeft="@drawable/ic_person_black_24dp"
+                    android:drawablePadding="20dp"
+                    android:drawableTint="@color/iconPerson"
+                    android:hint="Sender's Name"
+                    android:maxLines="1"
+                    android:textSize="16sp" />
+
+                <EditText
+                    android:id="@+id/etSenderPhone"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="20dp"
+                    android:background="@android:color/white"
+                    android:drawableLeft="@drawable/ic_call_black_24dp"
+                    android:drawablePadding="20dp"
+                    android:drawableTint="@color/iconCall"
+                    android:hint="Sender's Phone"
+                    android:inputType="number"
+                    android:maxLines="1"
+                    android:textSize="16sp" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginBottom="10dp"
+                android:background="@android:color/white">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="RECEIVER"
+                    android:textStyle="bold"
+                    android:textColor="@android:color/black"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginTop="20dp"/>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/lineColor"></LinearLayout>
+
+                <EditText
+                    android:id="@+id/etReceiverName"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginTop="20dp"
+                    android:background="@android:color/white"
+                    android:drawableLeft="@drawable/ic_person_black_24dp"
+                    android:drawablePadding="20dp"
+                    android:drawableTint="@color/iconPerson"
+                    android:hint="Receiver's Name"
+                    android:maxLines="1"
+                    android:textSize="16sp" />
+
+                <EditText
+                    android:id="@+id/etReceiverPhone"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="20dp"
+                    android:background="@android:color/white"
+                    android:drawableLeft="@drawable/ic_call_black_24dp"
+                    android:drawablePadding="20dp"
+                    android:drawableTint="@color/iconCall"
+                    android:hint="Receiver's Phone"
+                    android:inputType="number"
+                    android:maxLines="1"
+                    android:textSize="16sp" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginBottom="10dp"
+                android:background="@android:color/white">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="PAYMENT DETAILS"
+                    android:textStyle="bold"
+                    android:textColor="@android:color/black"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginTop="20dp"/>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:background="@color/lineColor"></LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginHorizontal="15dp"
+                    android:layout_marginVertical="15dp"
+                    android:orientation="horizontal">
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textAlignment="textStart"
+                        android:text="Total Price"
+                        android:layout_weight="1"
+                        android:gravity="start" />
+
+                    <TextView
+                        android:id="@+id/tvTravelPrice"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:gravity="end"
+                        android:text="Rp0.0"
+                        android:textAlignment="textEnd"
+                        android:textStyle="bold" />
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:background="@color/lineColor"></LinearLayout>
+                    <RadioButton
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginHorizontal="15dp"
+                        android:checked="true"
+                        android:layout_marginVertical="10dp"
+                        android:text="Cash"/>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/btnOrder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/btnPrimary"
+        android:gravity="center"
+        android:paddingVertical="15dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:text="ORDER"
+            android:textStyle="bold"
+            android:textColor="#FFF" />
+    </LinearLayout>
+    <!--<Button-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:text="ORDER"/>-->
+</RelativeLayout>

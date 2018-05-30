@@ -2,7 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.khilman.www.go_send.MapsActivity" >
+    tools:context="com.khilman.www.go_send.MainActivity" >
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -15,6 +15,7 @@
         <HorizontalScrollView
             android:layout_width="match_parent"
             android:scrollbars="none"
+            android:id="@+id/lyPickUpFrom"
             android:layout_height="wrap_content">
             <TextView
                 android:id="@+id/tvPickUpFrom"
@@ -32,6 +33,7 @@
         <HorizontalScrollView
             android:layout_width="match_parent"
             android:scrollbars="none"
+            android:id="@+id/lyPickUpTo"
             android:layout_height="wrap_content">
             <TextView
                 android:id="@+id/tvSendTo"
@@ -45,15 +47,31 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/map"
+        android:layout_centerInParent="true"
         android:name="com.google.android.gms.maps.SupportMapFragment"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnSeMarker"
+        android:layout_above="@+id/confirm_address_map_custom_marker"
+        android:layout_centerHorizontal="true"
+        android:visibility="gone"
+        android:text="PICKUP FROM"/>
+    <ImageView
+        android:id="@+id/confirm_address_map_custom_marker"
+        android:layout_width="30dp"
+        android:layout_height="50dp"
+        android:visibility="gone"
+        android:layout_centerInParent="true"
+        android:src="@drawable/mini_marker_from"/>
 
     <LinearLayout
         android:id="@+id/infoPanel"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:visibility="gone"
-        android:layout_marginHorizontal="15dp"
+        android:visibility="visible"
+
         android:orientation="vertical">
 
         <LinearLayout
@@ -116,13 +134,20 @@
             </LinearLayout>
         </LinearLayout>
 
-        <Button
-            android:id="@+id/btnNext"
+        <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:elevation="1dp"
-            android:paddingVertical="20dp"
-            android:text="Next" />
+            android:background="@color/btnPrimary"
+            android:id="@+id/btnNext"
+            android:gravity="center"
+            android:paddingVertical="15dp"
+            android:layout_alignParentBottom="true">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:textColor="#FFF"
+                android:text="NEXT"/>
+        </LinearLayout>
     </LinearLayout>
 
 </RelativeLayout>

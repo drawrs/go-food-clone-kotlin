@@ -2,7 +2,10 @@
 
 buildscript {
     ext.kotlin_version = '1.2.10'
+    ext.anko_version='0.10.4'
+
     repositories {
+        mavenCentral()
         google()
         jcenter()
     }
@@ -17,6 +20,7 @@ buildscript {
 
 allprojects {
     repositories {
+        mavenCentral()
         google()
         jcenter()
     }

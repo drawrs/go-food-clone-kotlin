@@ -7,6 +7,7 @@
     <uses-sdk
         android:minSdkVersion="15"
         android:targetSdkVersion="26" />
+
     <!--
          The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
          Google Maps Android API v2, but you must specify either coarse or fine
@@ -46,7 +47,7 @@
             android:value="@string/google_maps_key" />
 
         <activity
-            android:name="com.khilman.www.go_send.MapsActivity"
+            android:name="com.khilman.www.go_send.MainActivity"
             android:label="@string/title_activity_maps" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -54,6 +55,21 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.khilman.www.go_send.OrderDetaukActivity"
+            android:label="@string/detail_order"
+            android:parentActivityName="com.khilman.www.go_send.MainActivity" />
+        <activity
+            android:name="com.khilman.www.go_send.FindDriverActivity"
+            android:parentActivityName="com.khilman.www.go_send.OrderDetaukActivity" />
+
+        <service
+            android:name="com.khilman.www.go_send.service.TrackerService"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity android:name="com.khilman.www.go_send.CancelReasonActivity" />
+        <activity android:name="com.khilman.www.go_send.OtherCancelReasonActivity" />
 
         <meta-data
             android:name="com.google.android.gms.version"

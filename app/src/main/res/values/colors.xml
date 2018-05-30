@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimary">#1c1c1c</color>
+    <color name="colorPrimaryDark">#000000</color>
     <color name="colorAccent">#FF4081</color>
     <color name="map_polyline">#796fcc</color>
+    <color name="bgOrder">#efefef</color>
+    <color name="lineColor">#efefef</color>
+    <color name="btnPrimary">#89a61b</color>
+    <color name="iconCall">#59b64c</color>
+    <color name="iconPerson">#61a1f8</color>
+    <color name="findBg">#f1f2f2</color>
+    <color name="danger_active">#c94c33</color>
+    <color name="disabled_active">#c3c3c2</color>
 </resources>

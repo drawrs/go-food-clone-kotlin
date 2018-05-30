@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.khilman.www.go_send.OtherCancelReasonActivity">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:background="@android:color/white"
+        android:gravity="top|left"
+        android:padding="10dp"
+        android:id="@+id/etInputReason"
+        android:textSize="14sp"
+        android:hint="Cancellation Reason (min 20 chars)"
+        android:layout_above="@+id/btnCancelOrder"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/disabled_active"
+        android:paddingVertical="15dp"
+        android:id="@+id/btnCancelOrder"
+        android:layout_alignParentBottom="true"
+        android:gravity="center">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@android:color/white"
+            android:text="CANCEL ORDER"/>
+    </LinearLayout>
+</RelativeLayout>

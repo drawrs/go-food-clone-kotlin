@@ -1,4 +1,16 @@
 <resources>
     <string name="app_name">GO-SEND</string>
     <string name="title_activity_maps">Map</string>
+    <string name="detail_order">Add Details</string>
+    <array name="cancel_reasons">
+        <item>Others (weatcher, demonstarions, etc.)</item>
+        <item>Wrong pickup or dropoff address</item>
+        <item>Wrong item name or package size</item>
+        <item>Wrong contact details at pickup or dropoff point</item>
+        <item>Want to change the payment type</item>
+        <item>No longer need to send item</item>
+        <item>Sender waited too long</item>
+        <item>Unable to contact driver</item>
+        <item>Driver requested cancel</item>
+    </array>
 </resources>

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_close_black_24dp.xml.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_close_black_24dp.xml"
+    },
+    {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
     },
@@ -18,6 +22,10 @@
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable_mini_marker_from.png.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/src/main/res/drawable/mini_marker_from.png"
     },
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -128,6 +136,10 @@
         "source": "/home/hilman/Desktop/GOSEND/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_person_black_24dp.png.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_person_black_24dp.png"
+    },
+    {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_places_ic_clear.png.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/play-services-places-11.8.0.aar/1185786fbd5bf0927aade7e6a2f74874/res/drawable-hdpi-v4/places_ic_clear.png"
     },
@@ -164,6 +176,10 @@
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/layout/abc_popup_menu_header_item_layout.xml"
     },
     {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/layout_activity_find_driver.xml.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/src/main/res/layout/activity_find_driver.xml"
+    },
+    {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_googleg_standard_color_18.png.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3bb8addbdd2ea7f8e8d6bc8685dc5269/res/drawable-xxhdpi-v4/googleg_standard_color_18.png"
     },
@@ -178,6 +194,14 @@
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_person_black_24dp.png.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-mdpi/ic_person_black_24dp.png"
+    },
+    {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_call_black_24dp.png.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_call_black_24dp.png"
     },
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_tick_mark_material.xml.flat",
@@ -196,12 +220,12 @@
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_dark.xml.flat",
-        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable/abc_item_background_holo_dark.xml"
-    },
-    {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/color-v11_abc_background_cache_hint_selector_material_dark.xml.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
@@ -226,6 +250,10 @@
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_indicator_material.xml.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_call_black_24dp.png.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-ldpi/ic_call_black_24dp.png"
     },
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
@@ -348,6 +376,10 @@
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/layout/abc_select_dialog_material.xml"
     },
     {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable_riding_bike_less.gif.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/src/main/res/drawable/riding_bike_less.gif"
+    },
+    {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-mdpi-v4/abc_ic_star_black_48dp.png"
     },
@@ -364,6 +396,10 @@
         "source": "/root/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3bb8addbdd2ea7f8e8d6bc8685dc5269/res/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable_circle_bg.xml.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/src/main/res/drawable/circle_bg.xml"
+    },
+    {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_thumb_material.xml.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable/abc_seekbar_thumb_material.xml"
     },
@@ -372,12 +408,12 @@
         "source": "/root/.gradle/caches/transforms-1/files-1.1/play-services-places-11.8.0.aar/1185786fbd5bf0927aade7e6a2f74874/res/drawable-xxxhdpi-v4/powered_by_google_light.png"
     },
     {
-        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/raw_amu_poly_style_boolean_alpha.kml.flat",
-        "source": "/root/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.4.4.aar/5cad61e731ccf4555c378733e77d1090/res/raw/amu_poly_style_boolean_alpha.kml"
-    },
-    {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/805e8ab1105602d893909be1b5fb60a3/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/raw_amu_poly_style_boolean_alpha.kml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.4.4.aar/5cad61e731ccf4555c378733e77d1090/res/raw/amu_poly_style_boolean_alpha.kml"
     },
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable_abc_ic_voice_search_api_material.xml.flat",
@@ -556,6 +592,14 @@
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
     },
     {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_location_on_black_24dp.png.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_location_on_black_24dp.png"
+    },
+    {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_person_black_24dp.png.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-hdpi/ic_person_black_24dp.png"
+    },
+    {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
     },
@@ -624,16 +668,16 @@
         "source": "/root/.gradle/caches/transforms-1/files-1.1/play-services-places-11.8.0.aar/1185786fbd5bf0927aade7e6a2f74874/res/drawable-xxhdpi-v4/places_ic_clear.png"
     },
     {
-        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/color_switch_thumb_material_dark.xml.flat",
-        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/color/switch_thumb_material_dark.xml"
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/color_abc_tint_edittext.xml.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/color/abc_tint_edittext.xml"
     },
     {
-        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/layout_abc_search_dropdown_item_icons_2line.xml.flat",
-        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/layout/abc_search_dropdown_item_icons_2line.xml"
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/color_switch_thumb_material_dark.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/color/switch_thumb_material_dark.xml"
     },
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
@@ -660,12 +704,12 @@
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
-        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable_abc_tab_indicator_material.xml.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
@@ -708,12 +752,12 @@
         "source": "/root/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3bb8addbdd2ea7f8e8d6bc8685dc5269/res/drawable-hdpi-v4/googleg_standard_color_18.png"
     },
     {
-        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
-        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_powered_by_google_dark.png.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/play-services-places-11.8.0.aar/1185786fbd5bf0927aade7e6a2f74874/res/drawable-xhdpi-v4/powered_by_google_dark.png"
+    },
+    {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -732,12 +776,12 @@
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable/abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_light.xml.flat",
-        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable/abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable/abc_list_selector_background_transition_holo_light.xml"
     },
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/raw_amu_basic_folder.kml.flat",
@@ -776,6 +820,10 @@
         "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_background.png"
     },
     {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_close_black_24dp.png.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-mdpi/ic_close_black_24dp.png"
+    },
+    {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png"
     },
@@ -800,12 +848,20 @@
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable/abc_seekbar_track_material.xml"
     },
     {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_check_black_24dp.png.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_check_black_24dp.png"
+    },
+    {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view_list_item.xml.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_location_on_black_24dp.png.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_location_on_black_24dp.png"
     },
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_places_ic_clear.png.flat",
@@ -844,12 +900,12 @@
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png"
     },
     {
-        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
-        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png"
-    },
-    {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_places_ic_search.png.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/play-services-places-11.8.0.aar/1185786fbd5bf0927aade7e6a2f74874/res/drawable-hdpi-v4/places_ic_search.png"
+    },
+    {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_checkbox.xml.flat",
@@ -932,6 +988,10 @@
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/anim/abc_slide_out_bottom.xml"
     },
     {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_check_black_24dp.png.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-hdpi/ic_check_black_24dp.png"
+    },
+    {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/805e8ab1105602d893909be1b5fb60a3/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
     },
@@ -944,8 +1004,16 @@
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
     },
     {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable_bg_anim.xml.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/src/main/res/drawable/bg_anim.xml"
+    },
+    {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_call_black_24dp.png.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-hdpi/ic_call_black_24dp.png"
     },
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/layout_abc_search_view.xml.flat",
@@ -1040,8 +1108,20 @@
         "source": "/root/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3bb8addbdd2ea7f8e8d6bc8685dc5269/res/drawable-hdpi-v4/common_full_open_on_phone.png"
     },
     {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/layout_activity_other_cancel_reason.xml.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/src/main/res/layout/activity_other_cancel_reason.xml"
+    },
+    {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-v21_abc_action_bar_item_background_material.xml.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_call_black_24dp.png.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_call_black_24dp.png"
+    },
+    {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_close_black_24dp.png.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_close_black_24dp.png"
     },
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -1062,6 +1142,10 @@
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_call_black_24dp.png.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-mdpi/ic_call_black_24dp.png"
     },
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/layout_notification_template_big_media.xml.flat",
@@ -1136,6 +1220,10 @@
         "source": "/root/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3bb8addbdd2ea7f8e8d6bc8685dc5269/res/drawable-mdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
     },
     {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_check_black_24dp.png.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_check_black_24dp.png"
+    },
+    {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png"
     },
@@ -1146,6 +1234,14 @@
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable_mini_marker_to.png.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/src/main/res/drawable/mini_marker_to.png"
+    },
+    {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_person_black_24dp.xml.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_person_black_24dp.xml"
     },
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
@@ -1168,16 +1264,24 @@
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/color-v23_abc_color_highlight_material.xml.flat",
-        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/color-v23/abc_color_highlight_material.xml"
-    },
-    {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/color-v23_abc_color_highlight_material.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/layout_tooltip.xml.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/layout/tooltip.xml"
+    },
+    {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/layout_simple_list_item_selectable.xml.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/src/main/res/layout/simple_list_item_selectable.xml"
+    },
+    {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_call_black_24dp.xml.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_call_black_24dp.xml"
     },
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
@@ -1216,6 +1320,10 @@
         "source": "/root/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3bb8addbdd2ea7f8e8d6bc8685dc5269/res/color/common_google_signin_btn_tint.xml"
     },
     {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_close_black_24dp.png.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-ldpi/ic_close_black_24dp.png"
+    },
+    {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
     },
@@ -1240,12 +1348,16 @@
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/color/abc_tint_spinner.xml"
     },
     {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/layout_amu_info_window.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.4.4.aar/5cad61e731ccf4555c378733e77d1090/res/layout/amu_info_window.xml"
+    },
+    {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_16dp.png"
     },
     {
-        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/layout_amu_info_window.xml.flat",
-        "source": "/root/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.4.4.aar/5cad61e731ccf4555c378733e77d1090/res/layout/amu_info_window.xml"
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/layout_activity_cancel_reason.xml.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/src/main/res/layout/activity_cancel_reason.xml"
     },
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -1316,6 +1428,10 @@
         "source": "/root/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.4.4.aar/5cad61e731ccf4555c378733e77d1090/res/raw/amu_visibility_ground_overlay.kml"
     },
     {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_person_black_24dp.png.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-ldpi/ic_person_black_24dp.png"
+    },
+    {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
@@ -1342,6 +1458,14 @@
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_background.png.flat",
         "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_check_black_24dp.png.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-ldpi/ic_check_black_24dp.png"
+    },
+    {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_close_black_24dp.png.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_close_black_24dp.png"
     },
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/color-v23_abc_btn_colored_text_material.xml.flat",
@@ -1392,12 +1516,12 @@
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/color/abc_search_url_text.xml"
     },
     {
-        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
-        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/layout_select_dialog_multichoice_material.xml.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/layout_abc_screen_toolbar.xml.flat",
@@ -1414,6 +1538,10 @@
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/layout_activity_order_detauk.xml.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/src/main/res/layout/activity_order_detauk.xml"
     },
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
@@ -1504,12 +1632,12 @@
         "source": "/root/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3bb8addbdd2ea7f8e8d6bc8685dc5269/res/drawable/common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/layout_activity_maps.xml.flat",
-        "source": "/home/hilman/Desktop/GOSEND/app/src/main/res/layout/activity_maps.xml"
-    },
-    {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_places_ic_clear.png.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/play-services-places-11.8.0.aar/1185786fbd5bf0927aade7e6a2f74874/res/drawable-mdpi-v4/places_ic_clear.png"
+    },
+    {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/layout_activity_maps.xml.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/src/main/res/layout/activity_maps.xml"
     },
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable_abc_edit_text_material.xml.flat",
@@ -1574,6 +1702,10 @@
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_places_ic_search.png.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/play-services-places-11.8.0.aar/1185786fbd5bf0927aade7e6a2f74874/res/drawable-xxhdpi-v4/places_ic_search.png"
+    },
+    {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_check_black_24dp.png.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_check_black_24dp.png"
     },
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -1720,12 +1852,16 @@
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-mdpi-v4/abc_list_focused_holo.9.png"
     },
     {
-        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/anim_abc_grow_fade_in_from_bottom.xml.flat",
-        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_close_black_24dp.png.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_close_black_24dp.png"
     },
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_amu_bubble_mask.9.png.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.4.4.aar/5cad61e731ccf4555c378733e77d1090/res/drawable-xxhdpi-v4/amu_bubble_mask.9.png"
+    },
+    {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -1752,8 +1888,20 @@
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable/abc_ic_search_api_material.xml"
     },
     {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_person_black_24dp.png.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_person_black_24dp.png"
+    },
+    {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_person_black_24dp.png.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_person_black_24dp.png"
+    },
+    {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/layout_abc_action_menu_layout.xml.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_close_black_24dp.png.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-hdpi/ic_close_black_24dp.png"
     },
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable_abc_ratingbar_material.xml.flat",
@@ -1772,6 +1920,14 @@
         "source": "/home/hilman/Desktop/GOSEND/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_location_on_black_24dp.png.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-ldpi/ic_location_on_black_24dp.png"
+    },
+    {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_location_on_black_24dp.png.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-hdpi/ic_location_on_black_24dp.png"
+    },
+    {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_powered_by_google_dark.png.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/play-services-places-11.8.0.aar/1185786fbd5bf0927aade7e6a2f74874/res/drawable-xxhdpi-v4/powered_by_google_dark.png"
     },
@@ -1786,6 +1942,10 @@
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/layout-v21_place_autocomplete_fragment.xml.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/play-services-places-11.8.0.aar/1185786fbd5bf0927aade7e6a2f74874/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_location_on_black_24dp.xml.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_location_on_black_24dp.xml"
     },
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
@@ -1876,6 +2036,10 @@
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_check_black_24dp.xml.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_check_black_24dp.xml"
+    },
+    {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
     },
@@ -1900,12 +2064,20 @@
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_check_black_24dp.png.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-mdpi/ic_check_black_24dp.png"
+    },
+    {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
     },
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_disabled.xml.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/3bb8addbdd2ea7f8e8d6bc8685dc5269/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_call_black_24dp.png.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_call_black_24dp.png"
     },
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -1964,12 +2136,20 @@
         "source": "/home/hilman/Desktop/GOSEND/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
     },
     {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_location_on_black_24dp.png.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-mdpi/ic_location_on_black_24dp.png"
+    },
+    {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_powered_by_google_dark.png.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/play-services-places-11.8.0.aar/1185786fbd5bf0927aade7e6a2f74874/res/drawable-hdpi-v4/powered_by_google_dark.png"
     },
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "/root/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/35d04da44a230b16df6efc6f5793cadc/res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_location_on_black_24dp.png.flat",
+        "source": "/home/hilman/Desktop/GOSEND/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_location_on_black_24dp.png"
     },
     {
         "merged": "/home/hilman/Desktop/GOSEND/app/build/intermediates/res/merged/debug/drawable_abc_btn_colored_material.xml.flat",
